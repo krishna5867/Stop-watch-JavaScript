@@ -39,16 +39,17 @@ span{
     border: NONE;
     margin: 10PX 20PX;
     cursor: pointer;
+    border-radius: 7px;
 }
 #start{
-    background-color: green;
+    background-color: rgb(14, 175, 14);
 
 }
 #stop{
-    background-color: #3498db;
+    background-color: #0888dd;
 }
 #restart{
-    background-color: #c74c3c;
+    background-color: red;
 }
 #name{
     color: aliceblue;
